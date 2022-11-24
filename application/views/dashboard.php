@@ -170,7 +170,7 @@
                                 ?>
                                 <tr>
                                     <td><?php echo $i; ?></td>
-                                    <td>Yoga</td>
+                                    <td>Lyon</td>
                                     <td>5</td>
                                 </tr>
                             <?php }
